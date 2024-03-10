@@ -1,0 +1,80 @@
+.title-dialog-pitch {
+    color: #000000;
+    font-weight: bold !important;
+    font-size: 10px;
+}
+
+.input-dialog {
+    border-color: #E6E6E6;
+    border-radius: 5px;
+    border: 1px solid #E6E6E6 !important;
+    font-size: 11px;
+    padding : 8px;
+    margin-top: 5px;
+}
+
+.order-summary-right-field {
+    display: grid;
+    margin-bottom: 10px;
+}
+
+.item-field {
+font-size: 10px;
+}
+
+.item-value {
+    font-size: 10px;
+}
+
+.order-summary-right-field-summary{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0px;
+}
+
+.success {
+    font-size: 16px;
+    font-weight: 600 !important;
+}
+
+.detail{
+    font-size: 12px;
+}
+
+#simple-tab{
+    padding: 0px 2px;
+    font-size: 11px;
+    min-height: 26px !important;
+    max-height: 26px !important;
+    text-transform: none;
+    font-weight: 600;
+}
+
+.MuiTabs-root {
+    min-height: 26px !important;
+}
+
+.Mui-selected{
+    background-color: #E5F6FF !important
+}
+
+.wave-icon{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    vertical-align: sub;
+}
+
+.page-list-item {
+    align-self: center;
+    vertical-align: middle !important;
+}
+
+.menu-page-list-icon {
+    width: 15px !important; 
+    margin-right: 5px
+}
+
+.input-border-fix {
+    border: 1px solid #E6E6E6 !important
+}

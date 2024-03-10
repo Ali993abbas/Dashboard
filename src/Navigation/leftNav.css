@@ -1,0 +1,67 @@
+.tabs-menu-slider {
+    padding: 0 3px;
+    height: 100%;
+    position: absolute;
+    /* z-index: 9999; */
+    /* box-shadow: inset -10px 1px 20px 0px #c5c5c56b; */
+    /* border: 1px solid #CBCBCB; */
+    border-radius: none;
+    left: 0;
+    overflow-x: hidden;
+    width: 15%;
+    background-color: #1370A4;
+    /* overflow: hidden; */
+   }
+
+   #logo-and-name{
+    text-align: center;
+    color : white;
+    font-weight: 600;
+    margin : 20px 0px
+   }
+
+   #Dashboard {
+    color: white;
+    text-align: center;
+    padding: 5px 10px;
+    margin: 40px 10px;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+   }
+
+   .active {
+    background-color: white;
+    color: #146998 !important;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 600;
+   }
+
+   #pages{
+    color: white;
+    margin : 30px 10px 10px 10px;
+    font-size: 13px;
+   }
+
+   #pages-list{
+    list-style: none;
+    padding-left: 5px;
+   }
+
+   #pages-list-item{
+    padding: 15px 0px;
+    font-size: 12px;
+    cursor: pointer;
+    vertical-align: middle !important;
+   }
+
+   #profile-managment{
+color : white;
+margin: 10px;
+    font-size: 12px;
+    position: absolute;
+    bottom: 0;
+   width : -webkit-fill-available;
+   }

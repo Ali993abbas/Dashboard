@@ -1,0 +1,30 @@
+#main-header{
+    display: flex;
+    padding: 10px;
+    border-bottom: 2px solid #EEF0F4;
+}
+
+#selected-module{
+color: #525866;
+font-weight: 600 !important;
+font-size: 13px;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.fw-600{
+    font-weight: 600 !important;
+}
+
+#icons{
+    margin-left: auto;
+    color : #B2B5B8;
+}
+
+#avatar {
+    border: 1px solid #B2B5B8;
+    padding: 0px 12px;
+    border-radius: 5px;
+}

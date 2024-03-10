@@ -1,0 +1,17 @@
+#welcome-text{
+    color : #1370A4;
+    font-weight: 600 !important;
+}
+
+#watch-demo{
+    position: relative;
+}
+
+#watch-demo-text{
+    position: absolute;
+    top: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    left: 40%;
+    color : white
+}

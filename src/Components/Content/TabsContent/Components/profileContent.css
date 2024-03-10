@@ -1,0 +1,19 @@
+#text-review{
+    color: #6D6D6D;
+    font-size: 13px;
+}
+
+#text-review-bold{
+    color: #105C86;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+#review-accordian{
+    margin-top: 8px;
+}
+
+#accordian-summary {
+    display: flex;
+    width: 100%;
+}
